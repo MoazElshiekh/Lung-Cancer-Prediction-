@@ -808,3 +808,6 @@ In this final step, we deploy an interface using Gradio, allowing users to inter
 
 This step deploys an interactive interface using Gradio, enabling users to input data and receive predictions regarding lung cancer.
 ---
+refrences for biological interpertation :
+Lahans, T. (2007). Lung Cancer. Integrating Conventional and Chinese Medicine in Cancer Care, 35–60. https://doi.org/10.1016/b978-044310063-5.50006-3
+Liu, M., Wu, J., Wang, N., Zhang, X., Bai, Y., Guo, J., Zhang, L., Liu, S., & Tao, K. (2023). The value of artificial intelligence in the diagnosis of lung cancer: A systematic review and meta-analysis. PLOS ONE, 18(3), e0273445–e0273445. https://doi.org/10.1371/journal.pone.0273445
